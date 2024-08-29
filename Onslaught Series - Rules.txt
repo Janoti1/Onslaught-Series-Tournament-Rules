@@ -1,0 +1,349 @@
+V3.0 - Revised: 2023-08-09
+
+ONSLAUGHT SERIES TOURNAMENT GUIDE
+
+Welcome, rat slayers! 
+This tournament guide is designed to document formats and rulesets within the Onslaught Tournament series to avoid confusion, ensure fair treatment, and hold the organisers to a high standard. It is in the competitors’ best interests to familiarise themselves with this document before the day of an event.
+
+Please note that this guide is a living document, and is subject to periodic change. 
+
+Last edit: 9th of August 2023
+
+TABLE OF CONTENTS
+
+MOTIVATION	4
+POINTS OF CONTACT	5
+TERMINOLOGY	6
+TOURNAMENT FORMAT	8
+SCORING SYSTEM	9
+PRIZE STRUCTURE	9
+TOURNAMENT RULES	11
+REGISTRATION	11
+MATCH RULES	11
+MANDATORY MODS	12
+OPTIONAL APPROVED MODS	12
+CRASHES AND MALFUNCTIONS	13
+PLAYER CODE OF CONDUCT	15
+RULE ENFORCEMENT AND DISQUALIFICATION	16
+IN-GAME SPECTATING FOR CONTENT CREATORS	17
+FREQUENTLY ASKED QUESTIONS	18
+
+
+DISCLAIMER
+This tournament is run, officiated, and provided by community members and thus is not affiliated with Fatshark AB or Games Workshop. Fatshark, however, sometimes does provide prizes in the form of merchandise and game codes, and these prizes will be thoroughly marked in that event’s documentation and announcements.
+
+
+POINTS OF CONTACT
+
+The Onslaught Series functions entirely within its Discord server. All event details including sign-ups, LF-Team, links to relevant mods and future tournaments are communicated here.
+
+https://discord.gg/HTR8VrG
+
+
+The Onslaught Series is run by a small committee of community members, each with their own specialisation. Whilst anyone with the Onslaught Staff role in the Discord server will be able to answer most questions, you may be directed to another staff member for specific queries.
+
+TERMINOLOGY
+
+Cata/Cata 2/Cata 3: The three different difficulty tiers of Cataclysm originally introduced by Fatshark for the Weaves game mode, later modded to be played in adventure maps. For the purposes of this document, we will be referring to Cata and Cata 3. The mod that opens Cata 2 and Cata 3 in adventure mode has been combined with the DW mod created by RandomWords. 
+
+Cataclysm (C1): The highest difficulty in the official game, introduced with the Winds of Magic DLC. Expect more hordes, elites, and specials.
+
+Cataclysm 2 (C2): Is not played by the community and can be disregarded for now. 
+
+Cataclysm 3 (C3): Originally only available for the Weave gamemode, mods allow Cataclysm 3 to be played in adventure maps. The key differences from regular Cataclysm is that the special cap has been increased and made consistent amongst all the factions, and that enemies have increased health with slightly more mass. 
+
+Deathwish (DW):  A difficulty modifier that increases enemy stagger resistances, and Globadier gas damage. Elites can no longer be interrupted out of their overheads with a majority of the classes in the game, and enemies in general tend to stay stunned for a much shorter period of time. Stagger damage multipliers are locked at C1 values (less damage dealt to staggered enemies in C3). 
+
+Deathwish was originally created by Grimalackt, but it is now updated and maintained by RandomWords with input from Onslaught Series community members.
+
+Onslaught (ONS): A difficulty mutator that introduces more elites in hordes, changes the enemy composition of hordes, and also speeds up the pacing of a match which makes hordes and specials appear much more frequently. Events are reworked on every map to increase difficulty, and occasionally completely new events are added in. There are no empty boss/patrol triggers in Onslaught.
+
+Onslaught was created by Grimalackt.
+
+Onslaught+ (ONS+): A difficulty mutator that aims to provide a more difficult experience than regular Onslaught. ONS+ introduces more elites in hordes, as well as shield units, and some waves include Chaos Warriors. The mod increases the amount of ambients that can spawn too. The main changes are related to map triggers and events, so expect larger patrols and more bosses.
+
+OnslaughtPlus was created by Iceolator.
+
+Dutch Spice Tourney Version (Dutch): A mutator mod in the same vein as Onslaught made by Core specifically for the Onslaught Series. This is the difficulty second only to Spicy Onslaught; “Spice the average Dutchie can handle”. There are a lot of spawns in Dutch Spice, most notably vastly increased Special spawns. White Stormvermin are introduced, which are normal SV but with super armour type instead of regular armour. 
+
+Deathwish Onslaught (DWONS): A modded difficulty created by stacking the DW and ONS mods on top of each other. Used to refer to Cata 3 + Onslaught + Deathwish for the purposes of this document.
+
+Onslaught Series: The name of our community organisation, responsible for hosting various events, such as tournaments and guided events for newcomers.
+
+Onslaught Tournament Series (OTS): The event this document is about!
+
+Onslaught Captains Series (OCS): OTS’ sibling event; a guided and learning event in a relaxed, less-formalised environment meant to introduce newer players to Onslaught by playing with more Onslaught-experienced players. This is a good starting point if you are new to Onslaught or are curious about the Onslaught Series environment.
+
+Shoutcaster: Those who stream and commentate on the tournament in real-time.
+
+Onslaught Staff: A person involved in organising tournaments. 
+
+
+TOURNAMENT FORMAT
+
+OTS is a public, open tournament, which means anyone can register to participate without meeting any prior qualifications. While we do not place game experience limits on who can join, because OTS is a competitive event it is strongly recommended that players have some level of Onslaught experience before participating. Pre-made teams are highly encouraged to register together.
+
+We recognise not all players are ready to compete on the highest difficulties that the modded realm has to offer. As such, the tournament is broken into four skill tiers to encourage teams to self-sort themselves into their desired skill level. These tiers are as follows:
+
+Tier 1: C1DWONS (Cataclysm + DW + ONS). This tier is for players fresh from the official realm, looking to test the waters of modded difficulties. The most notable thing for such players is the stagger resistance introduced with Deathwish, and altered event spawns. 
+
+Tier 2: C3DWONS (Cata 3 + DW + ONS). This tier is recommended for people who feel they have hit the upper skill ceilings in the game and want to cut their teeth on the next difficulty above Cata.
+
+Tier 3: C3DWONS+  (Cata 3 + DW + ONS). This tier is recommended for those who have pushed beyond the usual upper skill ceiling and are seeking true challenge. 
+
+Tier 4: Dutch Spicy Tourney Version  (Cata 3 + DW + Dutch). This tier is for those seeking glory and have little to no regard for their own safety. 
+
+You cannot switch tier registration once the tournament starts.
+
+All teams will run the map pools in the allotted time simultaneously. If a team cannot make the specified time of the tourney, they must let staff know in advance so a specialised time slot can be arranged, with the caveat that a staff member be present during their runs.
+
+OTS events are three hours long, and players should ensure they have this amount of time available to give prior to registering.  Due to the length of this event, there are no tiebreakers.
+
+
+DEDICATED HOST TOURNAMENTS
+
+Some tournaments use dedicated hosts (DH), in lieu of dedicated servers, to alleviate some AI discrepancies between local hosts on higher difficulties. These are volunteer players with powerful hardware specs and strong internet connections that act as host using the Ubersreik 5 mod in tandem with the Suicide mod for competing teams, pausing and starting games while in voice with the team.  
+
+There are some differences to regular tournaments when DHs are involved because of limited time availability of hosts, and those are the following:
+Tournaments are long-form, lasting for one month. 
+Maximum of 3 teams per region.
+DH tournaments only use the highest tier (Dutch Spice Tourney difficulty).
+Each team has two tourney sessions, one every two weeks over the course of the month. 
+Teams that play before their competitors will play after their competitors on the following two week block. 
+ Each session is two hours long, playing a map of the team’s choice from a pool of three (all worth the same points), followed by one fixed map. The map selection will be the same for all teams, and change every 2 weeks for a total of 2 map pools. 
+Teams are given 30 minutes of warm up on their region’s host.
+Maps are given to contestants during their warm up. 
+At least one member of each team must record their PoV and upload to YouTube, to be provided to the TOs privately. 
+Teams must NOT stream the tourney games, as it gives the other competitors an advantage over the team streaming and all teams that play first. 
+All other tournament rules apply as normal. 
+
+DHs are all trusted, vetted and tested hosts, with top of the line hardware, and while there will be some regional discrepancies such as ping, any AI-related discrepancies will be the absolute minimum, if at all, and should be respected by competitors as mitigated to the best of our ability. If there are complaints directed towards DHs, this will be treated as unsportsmanlike conduct and will face appropriate punishment; all grievances must be directed to Onslaught Staff instead. 
+
+SCORING SYSTEM
+Players are given three hours to complete four maps in the order given (starting with easier maps and ending on difficult maps). 
+
+Each map starts with a set number of base points based on the accorded difficulty of the map. Each failed attempt reduces the base points of the map by 2. Harder maps are worth more base points. 
+
+The scores for each completed map gets added to the final score. Any uncompleted maps at the end of the event give 0 points.
+
+After finishing your runs, post your scores/results of the runs in the appropriate Discord channel or PM it to a TO. Do not post scores publicly until the end of the official tournament time.
+
+You can view the score calculator and see individual map point values here: Tourney Score Calculator
+
+
+
+PRIZE INFORMATION
+OTS wants to reward skilled play and encourages teams to challenge themselves when they feel ready to take the next step. The higher the tier, the higher the prize incentive. 
+
+Sponsored prizes will be clearly marked. Key codes for premium Vermintide 2 content may sometimes be interspersed within the prize pots, which will be provided to runner ups in each tier. Prizes are accumulated through donations, staff pockets and FS.
+
+Physical prizes may have to be mailed internationally, and may take anywhere from 2-6 weeks to receive based on location (OCE/SEA taking the longest amount of shipping time).
+
+Any team containing a "smurf" shall be ineligible for prizes, regardless of placement. If two or more smurfs are on any given team, the team will be required to move up to an appropriate tier as determined by Onslaught Staff, in their sole discretion. 
+“Smurf” shall be defined as any player who is capable of playing two tiers above the tier they are participating in as determined by the Onslaught Staff in their sole discretion. 
+Example: A Tier 2 team which contains a player the Onslaught staff determines is capable of playing in Tier 4 shall be ineligible to receive prizes as a team in its entirety.
+
+If a tier has only 1 team participating, the threshold for winning the prize for that tier is finishing 2 maps from the selected pool. The team must still compete in the tournament as normal. 
+
+
+TOURNAMENT RULES
+
+
+
+REGISTRATION
+All teams must register in the Onslaught Series Discord in the #signups channel.
+If you do not have a team, please post in the #looking-for-team channel.
+Your team must have the correct number of players for the format (e.g, for quads tournaments, you must have 4 players competing and not less).
+Please keep team names family-friendly.
+Teams may register “substitute” players with their team in case someone does not show the day of the event (maximum of 2 subs).
+If a team uses more than 4 players in a tournament by use of substitutes and qualifies for prizes, while efforts will be made to get prizes to all the contributing players, only 4 prizes are originally set out for each qualifying team, so teams will need to sort out amongst themselves which 4 get the prizes should we not be able to provide more. 
+Players may register for one tier and one team only. 
+The registration period will vary from event to event but usually closes a day or two before the tournament start date. 
+Entry is free for regular events. Charity events may require entry donations.
+If your team has players in awkward time zones for the tournament (OCE, SEA), when registering, state a time before the tourney start time, up to 24 hours. You  may play after tourney start time, however, your team will not be eligible for prizes when doing so.
+If you have received a prize in your tier before, you won't be eligible for another prize in it. This excludes the highest tournament tier. However, we still reserve the right to move teams up if they are too overstacked in individual cases. 
+Staff reserve the right to move players to appropriate skill tiers based on these terms.
+At least one team member must stream the event.
+If a member of staff has approved you to run at a different time slot outside of the designated event time, you must stream the event and ensure your Twitch VOD archive is enabled, OR record and upload your approved tourney time slot to Youtube and link them in the Discord. No exceptions. VODs must be intact, full runs and unedited; from the start of your time slot to the end. These tournament VODs will be subject to being uploaded to the Onslaught Series (or Fightthetide) YouTube channel, either whole or in part. By signing up as participants, you agree to these terms.
+All players participating during the normal event time must use the Onslaught Series Discord channels so staff can note attendance.
+Teams with two or more staff members are not eligible for prizes, but are eligible for rankings. Tournament staff members are not eligible for prizes.
+If anyone on your team has VAC or game bans on your profile, you will be REQUIRED to use an anti-cheat provided to you the day before your tier’s start date.
+Those with VAC or game bans will be REQUIRED to submit the anti-cheat’s output to staff, as well as a VOD and to record the activation of the anti-cheat. Not doing so will result in disqualification of your team.
+
+MATCH RULES
+Maps will be announced approximately 2-4 weeks ahead of the tournament. 
+Maps must be completed in the given order, with an unlimited number of attempts, each failed attempt loses your team points from the potential score of a win. You cannot move on to the next map and return to it later. A forfeited map gives 0 points.
+Maps must be completed within the start and end times of the tournament. If you are on a map when the time is called, you may finish that attempt only.
+No using scripts, mods, hacks, or cheats that would allow you to alter the game in ways that give you an advantage (fly mod, teleport mod, spawn tweaks, putting non-live realm traits/properties on weapons, etc.), macros for attack inputs are acceptable. 
+No use of safe spots.
+A safe spot is defined as a spot where enemies can’t hit you, and it accounts for all enemies: for example JUST a boss can hit you but not slaverats, elites, etc. it is still a safe spot. 
+You may pass through a safe spot, but the only action permitted is movement to get out of the spot, i.e, no using of items, attacking or using abilities.
+If the enemy can’t hit you because of the slot system (one slot spot) where they could theoretically hit you but an elite already occupies the slot for example, it’s allowed since the enemy can hit you there.
+No going out of bounds (OoB). 
+OoB is considered a place outside of the parameters of the map. If a minor skip involves being OoB in passing then this is acceptable, as it falls under the same rules as with safe spots shown above.
+Major skips are not permitted, minor skips are permitted. 
+A major skip is something that allows players to bypass large sections of a map, e.g, jumping onto the bridge at the beginning of Fort Brachsenbrucke, skipping the wine cellar on Empire in Flames or hopping over the gate on Hunger in the Dark near the 3rd trigger without pushing the cart to it. No events may be skipped (like jumping out of the Bodvarr fight to get to the portal). 
+A minor skip is anything shorter than these examples. If you know of another major skip, please bring it to the attention of Onslaught Staff so we can add it to this document.
+No intentionally deleting bosses by abusing navmesh (ledging/cliffing is different and accepted). 
+All events have been given parameters for tournaments which cannot be crossed once a specific trigger has been activated. This is an arbitration ruling to mitigate circumventing entire events.
+All living players must be within the event boundaries when the specified trigger is activated. 
+Players may exit the event boundaries when the exit trigger is met. 
+Start and exit triggers are specified in a footnote for each event in the link above. 
+Intentional exploitation of despawning enemies (whether via intentional strategy or intentional exploit) is prohibited. For example aggroing a large number of enemies and then either dying or going invisible at such a distance that would render them de-aggro'd and thus effectively despawned. Patrols are excluded from this as they are not by default aggressive.
+You may use sanctioned mods, as well as the optional mods listed in the following Optional Approved Mods section.
+Mods listed as “mandatory” must be used.
+Pause can be used at any time players need to AFK or when there is a crash; pause time cannot be used to discuss strategies nor will teams gain back tournament time that has been spent while paused.
+Unsubscribe from Creature Spawner before the tournament. This will help minimise crashes.
+All difficulties must be done with the “Cata 3 & DW” mod (NOT Cata 2 & 3 in Adventure Maps mod).
+All teams must have at least one player with the Shadows Over Bogenhafen and/or Back to Ubersreik DLCs (based on that event’s map pool). All teams must own Winds of Magic.
+Please note this is not a tournament-arranged rule, so much as this is how Fatshark has created player access to their DLCs and expansions.
+Any team showing up fifteen minutes after the tournament starts without prior notification of the organisers risks disqualification. You do not gain back the time you lose by being late. 
+If you are based in China and cannot access Discord due to governmental restrictions, contact Royale w/Cheese (Royale w/Cheese#0444) for access to the qq group and translated ruleset/explanation.
+Any apparently intentional or extreme cases of broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. Please be advised that hosts that are recording/streaming run a substantial risk of breaking AI on certain rigs/software. 
+This includes enemies being so numerous that they stop attacking players when they should, or mixing up their pathing so that they are rendered inactive or running around uselessly, and enemies that can be seen walking on air is a sign of broken AI. 
+Bots must always be disabled using the True Solo QoL mod.
+All participants must submit a console log of their matches for each instance of the game being loaded during the tournament. Console logs are found here: C:/Users/Owner/AppData/Roaming/Fatshark/Vermintide 2/console_logs. All console logs will be checked after the tournament and if any disallowed mods are found in the modlist the runs may be disqualified. 
+MANDATORY MODS
+Unless otherwise indicated, all players must have these mods installed and activated in the launcher.
+
+Tourney Balance Testing 
+Cata 3 & Deathwish
+Onslaught (Host)
+OnslaughtPlus (Host)
+Dutch Spice Tourney (Host)
+Beastmen Loader
+Mission Timer (to help Staff with crash procedures)
+No Beastmen mod (until Beastmen can be appropriately balanced in difficulty mods to suit fairer competition, no time refunds or DQs will be applied to teams that forget to activate this mod)
+True Solo QoL (only check “Disable Fog” and “Disable Sun Shadows” if you would like performance improvement. “Auto Kill Bots” is mandatory and “Disable Level Intro Audio” is allowed
+Tournament Assistant 
+OPTIONAL APPROVED MODS
+Players may also optionally use these mods, in addition to mods sanctioned by Fatshark.
+
+Give Weapon (make sure to apply only proper and base-game legitimate amounts and combinations of properties/traits to your weapons) 
+Save Weapon
+Give Weapon Supplement - Remove CW Traits
+Pause (Host)
+Skip Cutscenes
+Less Annoying Friendly Fire
+No Overcharge Damage Indicator
+Colorful Unique Weapons (because everything is better with RGB)
+Accessibility Captions
+More Hats (for Fashiontide)
+Give All Hats and Paintings (for more Fashiontide)
+More Skins (for even more Fashiontide)
+More Corpses (to improve performance for low-end PC’s [host-only])
+Choose Grail Knight quests (host only)
+Casual Mode (for creating weapons only)
+Headshot Counter
+Display Team Name
+Restart Level
+Life’s Hard Everywhere
+DPS Meter (at your own risk, can cause performance issues)
+Duct Tape Mod
+Vermintide Analytics
+Fix Restart Sound Bug
+Extra emotes
+Remove snow look from enemies
+Choose Weather
+Ph. Indicator
+Set Garbage
+Hat Control
+Maps for Mission Selection
+Slaughterhouse - More Blood
+UI Tweaks (zh)
+Give Weapon zh support 
+
+CRASHES AND MALFUNCTIONS
+We are aware that modded realm and Onslaught overall can sometimes cause game instability. As such, crashes do not count towards your attempt total. Should your game crash or malfunction during the event, teams must follow the procedure outlined below:
+
+Immediately notify Staff regarding the issue.
+Submit your crash in #crash-logs with the crashify text and your console log. This helps staff verify crashes, as well as community members to possibly diagnose your crash issue. Again, find the console log using this path (a new log is made the moment you launch the game): C:/Users/Owner/AppData/Roaming/Fatshark/Vermintide 2/console_logs
+If you get an event malfunction (such as Nurgloth spawning an unlimited amount of Bile Chemists) that does not produce a crash log, follow the same procedure outlined above with a description of the malfunction.
+Please note the time on your mission timer (or your best estimate if your timer restarts during a terror event) and inform staff.
+
+After verification, your team will be allowed to run the map again with the additional time lost during the crash or malfunction tacked onto your total tournament time.
+
+If a member of a team spawns behind you in an unreachable place via a bug, please notify staff and restart your match. You will be allowed one free restart with time compensation. Any additional spawn bugs will count as free attempts, but you do not receive time back after your one free attempt has been expended.
+
+
+It is up to your team to decide if you continue or receive time back for your first bugged respawn. If your team decides to continue without a player, you do not receive time back and your first attempt has been expended. 
+We will not refund time for crashes caused by optional mods.
+
+PLAYER CODE OF CONDUCT
+
+While OTS aims to foster a competitive spirit among Onslaught players, these events are, first and foremost, friendly events, and harassment will not be tolerated. By participating in OTS, you agree to abide by the following:
+
+No racist/sexist/overly political comments
+No harassment of any kind
+Targeted offensive language is prohibited 
+Act with decency and courtesy
+
+
+Failure to adhere to these rules may result in anything from a public or private warning to complete termination from the tournament and the Discord.
+RULE ENFORCEMENT AND DISQUALIFICATION
+
+Since Vermintide is not structurally designed for competition in this type of platform, all cases of cheating or rule disobedience will be subject to staff discretion with regards to disqualification. Depending on the severity of the incident, this may result in the following: 
+
+Immediate disqualification. If a player is deemed to be acting alone in their actions, they will be disqualified and the rest of the group will be allowed to continue, with or without a substitute player. If they are deemed to be in league with the rule breaking or allowing it to take place intentionally, the entire team may be disqualified. 
+Disqualified and banned from future events. Severe cases of rule breaking may earn participants a place on a blacklist for rule offenders and not permitted to participate in future tournaments. 
+
+If an alleged rule breaker has a plausible appeal to make, they may be permitted to conclude their run in the tournament before judgement is rendered. OR the staff may decide to conclude the incident before they continue, and record the time it takes to resolve the matter so that that time can be added to their tournament run should they be permitted to proceed. 
+
+Staff reserve the right to deny participation from players who have a known track record of cheating. 
+
+IN-GAME SPECTATING FOR CONTENT CREATORS
+
+Requests for in-game spectating for the purposes of shoutcasting or content creators will be made on a case-by-case basis by the staff. In the case of in-game spectating approval, spectators must follow these guidelines:
+
+The spectator must only use the following mods for spectating:
+Bless This Many Players (BTMP)
+UI Tweaks
+Suicide Mod
+Flight Mods
+All members of the team being spectated must  have the BTMP mod
+Spectating must happen during the normal tourney time slot.
+The spectator and team being spectated must ensure the approved spectating mods are functional with a low risk of crashing.
+The spectator must institute a suicide on his character immediately entering the map.
+The spectator must only use free flight mod once dead, and the spectating team cannot revive his character.
+The spectator must not be the host of the game.
+The spectator must be in the spectating voice channel and not in the same voice channel as the team being spectated.
+Further, once the team being spectated begins a map, the spectator must not use the chat box to communicate with the spectated team. Doing so will risk the spectated team’s disqualification.
+Any additional mods for spectators must be approved and tested by the staff on a case-by-case basis.
+FREQUENTLY ASKED QUESTIONS
+
+Do all events have DW attached to them?
+Yes! If you feel you aren’t yet ready to tackle Onslaught with Deathwish attached to it, feel free to sign up for OCS events when they are announced. Many people are willing to help guide you through your first introduction to the DW and Onslaught stack.
+
+Are there any banned characters or talents?
+No. Since the creation of the Tourney Balance mod, there are no known outliers that would compromise the competitive integrity enough to warrant a ban. 
+
+I have a stacked team of players I would like to register/I have seen stacked teams of players registering. Is this allowed?
+Yes. OTS encourages registering pre-made groups, or groups that are familiar with playing together to foster organised competition. In order to keep stacked groups from playing with people who are newer to Onslaught, we have multiple skill tiers for people to register in, starting with Cata DWONS. It is for this reason we recommend you sign up for the skill tier that you are most comfortable with. No one is infallible, and you might even unseat the “pros!”
+
+Will higher tiers always have a better prize pot than lower tiers?
+Yes. The reason for this is two-fold. It encourages people to either group to their skill level or to attempt a higher difficulty.
+
+Will the prize pot ever consist of cash prizes?
+No. Prizes are meant as incentives and not as the sole reason to participate. We feel offering real cash might put this tourney into territory we are a bit cautious to enter. We try to keep prizes Vermintide/Warhammer/video game themed.
+
+I can’t play, but I’m interested in watching. Where can I watch the tournament?
+Most teams have at least one player streaming during the event. These channels will be listed in #team-rosters in the Onslaught Series Discord. For real-time shoutcasting, our current event channel is Fight the Tide (http://www.twitch.tv/fightthetide), and is casted by community hero, Ishka, and co-casted by various notable community members, such as Grimalackt, the creator of Onslaught.
+
+I can’t make the tournament time slot! Can I run at a different time?
+Ideally, we prefer all participants to run at the same time, so requests for a different time slot outside the allotted tournament time will be judged on a case-by-case basis. Please reach out to staff for consideration with an explanation of your situation. Please be aware you must adhere to a stricter ruleset if you are approved for an alternative time slot.
+
+I don’t have a team to run with! What do I do?
+Please post in the #looking-for-team channel to find others in a similar situation. Alternatively, you can also search for people on Squirrel Squad, Blood Moon Inn, the Modded Community Discord, or Reddit. You can also meet people by signing up for a spot in OCS and meet players interested in Onslaught just like you!
+
+Our substitute didn’t show! Can I compete with an incomplete team?
+No. Incomplete teams are not allowed to compete. It is to your team’s benefit to all arrive on time the day of and hold each other accountable.
+
+Do I need to be in the Onslaught Series Discord to participate?
+Yes. Anyone participating in the tournament as a competitor/staff/shoutcaster/approved spectator must be in the Discord. If you are based in China where Discord is prohibited, please contact Royale w/Cheese (Royale w/Cheese#0444) for the qq group for rules explanation and information.
+
+I am interested in staffing/contributing to the prize pot/have feedback/etc. Who can I contact?
+For prize pot questions or contributions, please reach out to people with the Onslaught Staff roles. General feedback about the event can be left in the #feedback channel in the Onslaught Series Discord. We are currently not accepting new staff at this time. 
+
+
+
+
