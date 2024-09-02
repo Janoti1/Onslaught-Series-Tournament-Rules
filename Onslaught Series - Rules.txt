@@ -1,4 +1,5 @@
-V4.0 - Revised: 2024-08-27
+V4.1 - Revised: 2024-09-02
+
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
 
@@ -7,8 +8,7 @@ This tournament guide is designed to document formats and rulesets within the On
 
 Please note that this guide is a living document, and is subject to periodic change. 
 
-Last edit: 27th of August 2024
-
+Last edit: 2nd of September 2024
 
 TABLE OF CONTENTS
 
@@ -31,10 +31,10 @@ IN-GAME SPECTATING FOR CONTENT CREATORS	17
 FREQUENTLY ASKED QUESTIONS	18
 
 
+
+
 DISCLAIMER
 This tournament is run, officiated, and provided by community members and thus is not affiliated with Fatshark AB or Games Workshop. Fatshark, however, sometimes does provide prizes in the form of merchandise and game codes, and these prizes will be thoroughly marked in that event’s documentation and announcements.
-
-
 POINTS OF CONTACT
 
 The Onslaught Series functions entirely within its Discord server. All event details including Sign-Ups- and Looking-For-Team channels, links to relevant mods and future tournaments are communicated here.
@@ -101,10 +101,10 @@ OTS events are three hours long, and players should ensure they have this amount
 
 DEDICATED HOST
 
-Some tournaments may use dedicated hosts (DH), in lieu of dedicated servers, in order to alleviate some AI discrepancies between local hosts that can arise on higher difficulties. These are volunteer players with powerful hardware specs and strong internet connections that act as host using the Ubersreik 5 mod in tandem with the Suicide mod for competing teams. They will be starting and pausing games throughout their tournament games while in voice chat with the team.
+Some tournaments may use dedicated hosts (DH) for the highest difficulty tiers, in lieu of dedicated servers, in order to alleviate some AI discrepancies between local hosts that can arise on higher difficulties. These are volunteer players with powerful hardware specs and strong internet connections that act as host using the Ubersreik 5 mod in tandem with the Suicide mod for competing teams. They will be starting and pausing games throughout their tournament games while in voice chat with the team.
 
 Additional Ruling applies with DHs in an event:
-Maximum of 3 Teams per region (unfortunately there are not that many DHs)
+A maximum of the first 3 teams to sign up (unfortunately there are not that many DHs)
 Teams will know who their DH is ahead of time so they can practise in the different environment. Practice times and availability has to be communicated between the team and the DH themselves.
 
 SCORING SYSTEM
@@ -114,8 +114,11 @@ Each map starts with a set number of base points based on the accorded difficult
 
 The scores for each completed map gets added to the final score. Any uncompleted maps at the end of the event give 0 points.
 
-After finishing your runs, post your scores/results of the runs in the appropriate Discord channel or PM it to a TO. Do not post scores publicly until the end of the official tournament time.
 
+A completion of a map will always give at least 20% (rounded) of its base points, even when many attempts were needed. You cannot move on to the next map and return to it later. A forfeited map gives 0 points.
+
+
+After finishing your runs, post your scores/results of the runs in the appropriate Discord channel or PM it to a TO. Do not post scores publicly until the end of the official tournament time.
 You can view the score calculator and see individual map point values here.
 
 PRIZE INFORMATION
@@ -155,7 +158,7 @@ Those with VAC or game bans will be REQUIRED to submit the anti-cheat’s output
 
 MATCH RULES
 Maps will be announced approximately 2-4 weeks ahead of the tournament. 
-Maps must be completed in the given order, with an unlimited number of attempts, each failed attempt loses the team points from the potential score of a win. A completion of a map will always give at least 20% (rounded) of its base points, even when many attempts were needed. You cannot move on to the next map and return to it later. A forfeited map gives 0 points.
+Maps must be completed in the given order, with an unlimited number of attempts, each failed attempt loses the team points from the potential score of a win.
 Maps must be completed within the start and end times of the tournament. If you are on a map when the time is called, you may finish that attempt only.
 No scripts, mods, hacks, or cheats that would allow altering the game in ways that give an advantage (fly mod, teleport mod, spawn tweaks, putting non-live realm traits/properties on weapons, etc.) are allowed. Macros for attack inputs are acceptable.
 No use of safe spots.
@@ -326,6 +329,7 @@ Yes. Anyone participating in the tournament as a competitor/staff/shoutcaster/ap
 
 I am interested in staffing/contributing to the prize pot/have feedback/etc. Who can I contact?
 For prize pot questions or contributions, please reach out to people with the Onslaught Staff roles. General feedback about the event can be left in the #feedback channel in the Onslaught Series Discord. We are currently not accepting new staff at this time. 
+
 
 
 
