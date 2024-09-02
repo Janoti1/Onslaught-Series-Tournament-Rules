@@ -1,4 +1,4 @@
-V4.1 - Revised: 2024-09-02
+V4.2 - Revised: 2024-09-02
 
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
@@ -29,6 +29,7 @@ PLAYER CODE OF CONDUCT	15
 RULE ENFORCEMENT AND DISQUALIFICATION	16
 IN-GAME SPECTATING FOR CONTENT CREATORS	17
 FREQUENTLY ASKED QUESTIONS	18
+
 
 
 
@@ -104,7 +105,7 @@ DEDICATED HOST
 Some tournaments may use dedicated hosts (DH) for the highest difficulty tiers, in lieu of dedicated servers, in order to alleviate some AI discrepancies between local hosts that can arise on higher difficulties. These are volunteer players with powerful hardware specs and strong internet connections that act as host using the Ubersreik 5 mod in tandem with the Suicide mod for competing teams. They will be starting and pausing games throughout their tournament games while in voice chat with the team.
 
 Additional Ruling applies with DHs in an event:
-A maximum of the first 3 teams to sign up (unfortunately there are not that many DHs)
+Only the first 3 teams per region to sign up for the event are eligible to participate (unfortunately there are not that many DHs)
 Teams will know who their DH is ahead of time so they can practise in the different environment. Practice times and availability has to be communicated between the team and the DH themselves.
 
 SCORING SYSTEM
