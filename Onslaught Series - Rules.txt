@@ -1,4 +1,4 @@
-V4.2 - Revised: 2024-09-02
+V4.3 - Revised: 2024-09-10
 
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
@@ -8,7 +8,7 @@ This tournament guide is designed to document formats and rulesets within the On
 
 Please note that this guide is a living document, and is subject to periodic change. 
 
-Last edit: 2nd of September 2024
+Last edit: 10th of September 2024
 
 TABLE OF CONTENTS
 
@@ -40,7 +40,7 @@ POINTS OF CONTACT
 
 The Onslaught Series functions entirely within its Discord server. All event details including Sign-Ups- and Looking-For-Team channels, links to relevant mods and future tournaments are communicated here.
 
-https://discord.gg/HTR8VrG
+https://discord.gg/MS4vWSQrEh
 
 
 The Onslaught Series is run by a small committee of community members, each with their own specialisation. Whilst anyone with the Onslaught Staff role in the Discord server will be able to answer most questions, you may be directed to another staff member for specific queries.
@@ -161,7 +161,8 @@ MATCH RULES
 Maps will be announced approximately 2-4 weeks ahead of the tournament. 
 Maps must be completed in the given order, with an unlimited number of attempts, each failed attempt loses the team points from the potential score of a win.
 Maps must be completed within the start and end times of the tournament. If you are on a map when the time is called, you may finish that attempt only.
-No scripts, mods, hacks, or cheats that would allow altering the game in ways that give an advantage (fly mod, teleport mod, spawn tweaks, putting non-live realm traits/properties on weapons, etc.) are allowed. Macros for attack inputs are acceptable.
+No use of scripts, mods, hacks, or cheats that would allow altering the game in ways that give an advantage (fly mod, teleport mod, spawn tweaks, putting non-live realm traits/properties on weapons, etc.) are allowed.
+Using a macro which quickly repeats light attacks (spam clicking the left mouse button) is allowed due to health concerns that otherwise arise with using weapons like the 1h axe for a prolonged amount of time. Every other type of macro, for example ones that perfectly charge attacks or do QQ weapon swaps, is forbidden.
 No use of safe spots.
 A safe spot is defined as a spot where enemies can’t hit you, and it accounts for all enemies: for example JUST a boss can hit you but not slaverats, elites, etc. it is still a safe spot. 
 You may pass through a safe spot, but the only action permitted is movement to get out of the spot, i.e, no using of items, attacking or using abilities.
