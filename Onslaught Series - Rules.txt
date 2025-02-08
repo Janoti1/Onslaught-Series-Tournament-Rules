@@ -1,4 +1,4 @@
-V4.4 - Revised: 2025-02-08
+V4.5 - Revised: 2025-02-08
 
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
@@ -8,7 +8,7 @@ This tournament guide is designed to document formats and rulesets within the On
 
 Please note that this guide is a living document, and is subject to periodic change. 
 
-Last edit: 10th of September 2024
+Last edit: 8th of February 2025
 
 TABLE OF CONTENTS
 
@@ -185,7 +185,7 @@ All teams must have at least one player with the Shadows Over Bogenhafen and/or 
 Please note this is not a tournament-arranged rule, so much as this is how Fatshark has created player access to their DLCs and expansions.
 Any team showing up fifteen minutes after the tournament starts without prior notification of the organisers risks disqualification. You do not gain back the time you lose by being late. 
 If you are based in China and cannot access Discord due to governmental restrictions, contact Royale w/Cheese (royalewcheese) for access to the qq group and translated ruleset/explanation.
-Broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. For that reason the host of the game is prohibited to stream/ record with their computer at the same time. We want to encourage you to make sure that you will reach a minimum of 60FPS at any given time in the game.
+Broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. For that reason - in the highest tier - the host of the game is prohibited to stream/ record with their computer at the same time. We want to encourage you to make sure that you will reach a minimum of 60FPS at any given time in the game.
 This includes enemies being so numerous that they stop attacking players when they should, or mixing up their pathing so that they are rendered inactive or running around uselessly, and enemies that can be seen walking on air is a sign of broken AI. 
 Bots must always be disabled using the True Solo QoL mod.
 Console logs must be submitted of the matches for each instance of the game being loaded during the tournament by all participants. Console logs are found here: C:/Users/Owner/AppData/Roaming/Fatshark/Vermintide 2/console_logs. All console logs will be checked after the tournament and if any disallowed mods are found in the modlist the runs may be disqualified. 
@@ -210,6 +210,7 @@ Players may also optionally use these mods, in addition to mods sanctioned by Fa
 Give Weapon (make sure to apply only proper and base-game legitimate amounts and combinations of properties/traits to your weapons) 
 Save Weapon
 Give Weapon Supplement - Remove CW Traits
+GiveWeaponFix
 Pause (Host)
 Skip Cutscenes
 Less Annoying Friendly Fire
@@ -329,9 +330,5 @@ Do I need to be in the Onslaught Series Discord to participate?
 Yes. Anyone participating in the tournament as a competitor/staff/shoutcaster/approved spectator must be in the Discord. If you are based in China where Discord is prohibited, please contact Royale w/Cheese (royalewcheese) for the qq group for rules explanation and information.
 
 I am interested in staffing/contributing to the prize pot/have feedback/etc. Who can I contact?
-For prize pot questions or contributions, please reach out to people with the Onslaught Staff roles. General feedback about the event can be left in the #feedback channel in the Onslaught Series Discord. We are currently not accepting new staff at this time. 
-
-
-
-
+For prize pot questions or contributions, please reach out to people with the Onslaught Staff roles. General feedback about the event can be left in the #feedback channel in the Onslaught Series Discord. We are currently not accepting new staff at this time.
 
