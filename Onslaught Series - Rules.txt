@@ -1,4 +1,4 @@
-V4.3 - Revised: 2024-09-10
+V4.4 - Revised: 2025-02-08
 
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
@@ -33,7 +33,6 @@ FREQUENTLY ASKED QUESTIONS	18
 
 
 
-
 DISCLAIMER
 This tournament is run, officiated, and provided by community members and thus is not affiliated with Fatshark AB or Games Workshop. Fatshark, however, sometimes does provide prizes in the form of merchandise and game codes, and these prizes will be thoroughly marked in that event’s documentation and announcements.
 POINTS OF CONTACT
@@ -64,7 +63,7 @@ Onslaught was created by Grimalackt.
 Onslaught+ (ONS+): A difficulty mutator that aims to provide a more difficult experience than regular Onslaught. ONS+ introduces more elites in hordes, as well as shield units, and some waves include Chaos Warriors. The mod increases the amount of ambients that can spawn too. The main changes are related to map triggers and events, so expect larger patrols and more bosses.
 OnslaughtPlus was created by Iceolator.
 
-Dutch Spice Tourney Version (Dutch): A mutator mod in the same vein as Onslaught made by Core specifically for the Onslaught Series. This is the difficulty second only to Spicy Onslaught; “Spice the average Dutchie can handle”. There are a lot of spawns in Dutch Spice, most notably vastly increased Special spawns. White Stormvermin are introduced, which are normal SV but with super armour type instead of regular armour. 
+Dutch Spice (Dutch): A mutator mod in the same vein as Onslaught made by Core. This is the difficulty second only to Spicy Onslaught; “Spice the average Dutchie can handle”. There are a lot of spawns in Dutch Spice, most notably vastly increased Special spawns. White Stormvermin are introduced, which are normal SV but with super armour type instead of regular armour. The Difficulty is played without the adjustments of Specials and newly introduced Auras.
 
 Deathwish Onslaught (DWONS): A modded difficulty created by stacking the DW and ONS mods on top of each other. Used to refer to Cata 1 + Onslaught + Deathwish for the purposes of this document.
 
@@ -89,17 +88,16 @@ We recognise not all players are ready to compete on the highest difficulties th
 
 Tier 1: C1DWONS (Cataclysm + DW + ONS). This tier is for players fresh from the official realm, looking to test the waters of modded difficulties. The most notable thing for such players is the stagger resistance introduced with Deathwish, and altered event spawns. 
 
-Tier 2: C3DWONS (Cata 3 + DW + ONS). This tier is recommended for people who feel they have hit the upper skill ceilings in the game and want to cut their teeth on the next difficulty above Cata.
+Tier 2: C3DWONS (Cataclysm 3 + DW + ONS). This tier is recommended for people who feel they have hit the upper skill ceilings in the game and want to cut their teeth on the next difficulty above Cata.
 
-Tier 3: C3DWONS+  (Cata 3 + DW + ONS). This tier is recommended for those who have pushed beyond the usual upper skill ceiling and are seeking true challenge. 
+Tier 3: C3DWONS+  (Cataclysm 3 + DW + ONS). This tier is recommended for those who have pushed beyond the usual upper skill ceiling and are seeking true challenge. 
 
-Tier 4: Dutch Spicy Tourney Version  (Cata 3 + DW + Dutch). This tier is for those seeking glory and have little to no regard for their own safety. 
+Tier 4: Dutch Spicy (Cataclysm 3 + DW + Dutch). This tier is for those seeking glory and have little to no regard for their own safety. 
 
 You cannot switch tier registration once the tournament starts.
 
 All teams will run the map pools in the allotted time simultaneously. If a team cannot make the specified time of the tourney, they must let staff know in advance so a specialised time slot can be arranged.
 OTS events are three hours long, and players should ensure they have this amount of time available to give prior to registering.  Due to the length of this event, there are no tiebreakers.
-
 DEDICATED HOST
 
 Some tournaments may use dedicated hosts (DH) for the highest difficulty tiers, in lieu of dedicated servers, in order to alleviate some AI discrepancies between local hosts that can arise on higher difficulties. These are volunteer players with powerful hardware specs and strong internet connections that act as host using the Ubersreik 5 mod in tandem with the Suicide mod for competing teams. They will be starting and pausing games throughout their tournament games while in voice chat with the team.
@@ -151,7 +149,7 @@ If your team has players in awkward time zones for the tournament (OCE, SEA), wh
 If you have received a prize in your tier before, you won't be eligible for another prize in it. This excludes the highest tournament tier. However, we still reserve the right to move teams up if they are too overstacked in individual cases. 
 Staff reserve the right to move players to appropriate skill tiers based on these terms.
 At least one team member must stream the event.
-If a member of staff has approved you to run at a different time slot outside of the designated event time, you must stream the event and ensure your Twitch VOD archive is enabled, OR record and upload your approved tourney time slot to Youtube and link them in the Discord. VODs must be intact, full runs and unedited; from the start of your time slot to the end. These tournament VODs will be subject to being uploaded to the Onslaught Series (or Fightthetide) YouTube channel, either whole or in part. By signing up as participants, you agree to these terms.
+If a member of staff has approved you to run at a different time slot outside of the designated event time, you must stream the event and ensure your Twitch VOD archive is enabled, OR record and upload your approved tourney time slot to Youtube and link them in the Discord. VODs must be intact, full runs and unedited; from the start of your time slot to the end. These tournament VODs will be subject to being uploaded to the Onslaught Series (or Fight The Tide) YouTube channel, either whole or in part. By signing up as participants, you agree to these terms.
 All players participating during the normal event time must use the Onslaught Series Discord channels so staff can note attendance.
 Teams with two or more staff members are not eligible for prizes, but are eligible for rankings. Tournament staff members are not eligible for prizes.
 If anyone on your team has VAC or game bans on your profile, you will be REQUIRED to use an anti-cheat provided to you the day before your tier’s start date.
@@ -187,7 +185,7 @@ All teams must have at least one player with the Shadows Over Bogenhafen and/or 
 Please note this is not a tournament-arranged rule, so much as this is how Fatshark has created player access to their DLCs and expansions.
 Any team showing up fifteen minutes after the tournament starts without prior notification of the organisers risks disqualification. You do not gain back the time you lose by being late. 
 If you are based in China and cannot access Discord due to governmental restrictions, contact Royale w/Cheese (royalewcheese) for access to the qq group and translated ruleset/explanation.
-Broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. Please be advised that hosts that are recording/streaming run a substantial risk of breaking AI on certain rigs/software. 
+Broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. For that reason the host of the game is prohibited to stream/ record with their computer at the same time. We want to encourage you to make sure that you will reach a minimum of 60FPS at any given time in the game.
 This includes enemies being so numerous that they stop attacking players when they should, or mixing up their pathing so that they are rendered inactive or running around uselessly, and enemies that can be seen walking on air is a sign of broken AI. 
 Bots must always be disabled using the True Solo QoL mod.
 Console logs must be submitted of the matches for each instance of the game being loaded during the tournament by all participants. Console logs are found here: C:/Users/Owner/AppData/Roaming/Fatshark/Vermintide 2/console_logs. All console logs will be checked after the tournament and if any disallowed mods are found in the modlist the runs may be disqualified. 
@@ -199,12 +197,13 @@ Tourney Balance Testing
 Cata 3 & Deathwish
 Onslaught (Host)
 OnslaughtPlus (Host)
-Dutch Spice Tourney (Host)
-Beastmen Loader
+Dutch Spice (Host)
+Beastmen Loader (Only for Tier 1-3)
 Mission Timer (to help Staff with crash procedures)
 No Beastmen mod (until Beastmen can be appropriately balanced in difficulty mods to suit fairer competition, no time refunds or DQs will be applied to teams that forget to activate this mod)
 True Solo QoL (only check “Disable Fog” and “Disable Sun Shadows” if you would like performance improvement. “Auto Kill Bots” is mandatory and “Disable Level Intro Audio” is allowed)
-Tournament Assistant 
+Tournament Assistant
+A Quiet Drink (if map is in map pool of the tier the team plays)
 OPTIONAL APPROVED MODS
 Players may also optionally use these mods, in addition to mods sanctioned by Fatshark.
 
