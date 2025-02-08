@@ -1,4 +1,4 @@
-V4.5 - Revised: 2025-02-08
+V4.6 - Revised: 2025-02-08
 
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
@@ -277,6 +277,8 @@ Disqualified and banned from future events. Severe cases of rule breaking may ea
 
 If an alleged rule breaker has a plausible appeal to make, they may be permitted to conclude their run in the tournament before judgement is rendered. OR the staff may decide to conclude the incident before they continue, and record the time it takes to resolve the matter so that that time can be added to their tournament run should they be permitted to proceed. 
 
+Any final decision will be at the TO’s discretion. Overly combative discourse, specifically in regards to TO decisions, may result in disqualification and the banning from future events.
+
 Staff reserve the right to deny participation from players who have a known track record of cheating. 
 
 IN-GAME SPECTATING FOR CONTENT CREATORS
@@ -330,5 +332,4 @@ Do I need to be in the Onslaught Series Discord to participate?
 Yes. Anyone participating in the tournament as a competitor/staff/shoutcaster/approved spectator must be in the Discord. If you are based in China where Discord is prohibited, please contact Royale w/Cheese (royalewcheese) for the qq group for rules explanation and information.
 
 I am interested in staffing/contributing to the prize pot/have feedback/etc. Who can I contact?
-For prize pot questions or contributions, please reach out to people with the Onslaught Staff roles. General feedback about the event can be left in the #feedback channel in the Onslaught Series Discord. We are currently not accepting new staff at this time.
-
+For prize pot questions or contributions, please reach out to people with the Onslaught Staff roles. General feedback about the event can be left in the #feedback channel in the Onslaught Series Discord. We are currently not accepting new staff at this time. 
