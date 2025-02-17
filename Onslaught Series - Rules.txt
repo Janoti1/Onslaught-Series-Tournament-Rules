@@ -1,4 +1,4 @@
-V4.6 - Revised: 2025-02-08
+V4.7 - Revised: 2025-02-17
 
 
 ONSLAUGHT SERIES TOURNAMENT GUIDE
@@ -8,7 +8,7 @@ This tournament guide is designed to document formats and rulesets within the On
 
 Please note that this guide is a living document, and is subject to periodic change. 
 
-Last edit: 8th of February 2025
+Last edit: 17th of February 2025
 
 TABLE OF CONTENTS
 
@@ -139,6 +139,7 @@ REGISTRATION
 All teams must register in the Onslaught Series Discord in the #signups channel.
 If you do not have a team, please post in the #looking-for-team channel.
 Your team must have the correct number of players for the format (e.g, for quads tournaments, you must have 4 players competing and not less).
+Your team will be signed up once the sign up message is completely filled out 
 Please keep team names family-friendly.
 Teams may register “substitute” players with their team in case someone does not show the day of the event (maximum of 2 subs).
 If a team uses more than 4 players in a tournament by use of substitutes and qualifies for prizes, while efforts will be made to get prizes to all the contributing players, only 4 prizes are originally set out for each qualifying team, so teams will need to sort out amongst themselves which 4 get the prizes should we not be able to provide more. 
@@ -185,8 +186,8 @@ All teams must have at least one player with the Shadows Over Bogenhafen and/or 
 Please note this is not a tournament-arranged rule, so much as this is how Fatshark has created player access to their DLCs and expansions.
 Any team showing up fifteen minutes after the tournament starts without prior notification of the organisers risks disqualification. You do not gain back the time you lose by being late. 
 If you are based in China and cannot access Discord due to governmental restrictions, contact Royale w/Cheese (royalewcheese) for access to the qq group and translated ruleset/explanation.
-Broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. For that reason - in the highest tier - the host of the game is prohibited to stream/ record with their computer at the same time. We want to encourage you to make sure that you will reach a minimum of 60FPS at any given time in the game.
-This includes enemies being so numerous that they stop attacking players when they should, or mixing up their pathing so that they are rendered inactive or running around uselessly, and enemies that can be seen walking on air is a sign of broken AI. 
+Broken AI can be grounds for discounting a run at the discretion of staff. We are actively looking for broken AI displayed at a level that would affect the integrity of the competition significantly. For that reason - in the highest tier - the host of the game must be able to reach a minimum of 60FPS at any given time. We want to encourage you to neither stream nor record the game as host and make sure that you will reach a minimum of 60FPS at any given time in all Tiers.
+This includes enemies being so numerous that they stop attacking players when they should, or mixing up their pathing so that they are rendered inactive or running around uselessly (enemies that can be seen walking on air is a sign of broken AI). 
 Bots must always be disabled using the True Solo QoL mod.
 Console logs must be submitted of the matches for each instance of the game being loaded during the tournament by all participants. Console logs are found here: C:/Users/Owner/AppData/Roaming/Fatshark/Vermintide 2/console_logs. All console logs will be checked after the tournament and if any disallowed mods are found in the modlist the runs may be disqualified. 
 
@@ -202,8 +203,8 @@ Beastmen Loader (Only for Tier 1-3)
 Mission Timer (to help Staff with crash procedures)
 No Beastmen mod (until Beastmen can be appropriately balanced in difficulty mods to suit fairer competition, no time refunds or DQs will be applied to teams that forget to activate this mod)
 True Solo QoL (only check “Disable Fog” and “Disable Sun Shadows” if you would like performance improvement. “Auto Kill Bots” is mandatory and “Disable Level Intro Audio” is allowed)
-Tournament Assistant
 A Quiet Drink (if map is in map pool of the tier the team plays)
+
 OPTIONAL APPROVED MODS
 Players may also optionally use these mods, in addition to mods sanctioned by Fatshark.
 
